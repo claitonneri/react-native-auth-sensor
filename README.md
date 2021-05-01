@@ -1,1 +1,1 @@
-# react-native-auth-sensor
+# App para teste de autenticação via hardware biométrico
